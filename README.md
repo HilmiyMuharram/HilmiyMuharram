@@ -1,9 +1,8 @@
 <div align="center">
 
-##  Hello, I am Muhammad Hilmiy Muharram 
- IT Web Developer based in Bandung
 
- ![HilmiyMuharram](hilmiy.png)
+
+ ![HilmiyMuharram](hilmiym.png)
 
 
 
