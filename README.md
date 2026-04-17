@@ -1,7 +1,7 @@
 <div align="center">
 
 ##  Hello, I am Muhammad Hilmiy Muharram 
-Junior IT Developer based in Bandung
+ IT Web Developer based in Bandung
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HilmiyMuharram/HilmiyMuharram/output/pacman-contribution-graph-dark.svg">
